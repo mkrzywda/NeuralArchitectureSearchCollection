@@ -10,7 +10,7 @@
   - [Domain](#domain)
   - [Dilation](#dilation)
   - [Loss](#loss)
-  - [DARTS](#darts)
+- [DARTS](#darts)
 - [Reinforcement Learning (RL) Methods](#reinforcement-learning-rl-methods)
   - [CNN](#cnn-1)
 - [Evolutionary Algorithm (EA) Methods](#evolutionary-algorithm-ea-methods)
@@ -102,7 +102,7 @@
 |:------------|:----------:|:--------:|:----:|:----:|
 | [Auto Seg-Loss: Searching Metric Surrogates for Semantic Segmentation](https://openreview.net/forum?id=MJAqnaC2vO1) | ICLR 2021 | Gradient | [Code](https://github.com/fundamentalvision/Auto-Seg-Loss) | 2021 |
 
-### DARTS <a name="darts"></a>
+## DARTS <a name="darts"></a>
 
 | Paper Title | Conference | Strategy | Code | Date |
 |:------------|:----------:|:--------:|:----:|:----:|
